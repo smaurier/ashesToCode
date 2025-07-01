@@ -13,5 +13,4 @@ console.log(nouveauxHobbies)
 
 // On clone et on ajoute une propriété
 const cloneMonObjet = { ...monObjet, prenom: "Sylvain", age: 45 }
-
 console.log(cloneMonObjet)
